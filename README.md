@@ -7,12 +7,12 @@ GROUP MEMBERS:
 4.PRINCE PATEL
 
 OBJECTIVE OF PROJECT:
-This project analyzes sales data to provide insights into sales trends over time, by region, and by product. It uses **NumPy**, **Pandas**, and **Matplotlib** for data manipulation and visualization.
+This project analyzes sales data to provide insights into sales trends over time, by region, and by product. It usesPandas, and Matplotlib for data manipulation and visualization.
 
 TOOLS AND LIBRARIES USED:
 1.matplotlib
 2.pandas
-3.numpy
+
 
 DATA SOURCE:
 using random module from python and some hint from kaggle
